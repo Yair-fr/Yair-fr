@@ -39,11 +39,11 @@ def find_issue_binary_search_with_two_pointers(ls1, start=0, end=None):
     mid_left = (start + end) // 2
     mid_right = mid_left + 1
 
-    # Check if the issue is at `mid_left`
+    # Check if the issue is at mid_left
     if mid_left < len(ls1) - 1 and ls1[mid_left] > ls1[mid_right]:
         return mid_left
 
-    # Check if the issue is at `mid_left - 1` (covers cases where the issue lies just before mid_left)
+    # Check if the issue is at mid_left - 1 (covers cases where the issue lies just before mid_left)
     if mid_left > 0 and ls1[mid_left - 1] > ls1[mid_left]:
         return mid_left - 1
 
