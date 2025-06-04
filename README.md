@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yair Frija (@Yair-fr)</h1>
+<h1 align="center">Hi there 👋, I'm Yair (@Yair-fr)</h1>
 
 <p align="center">
   <em>Passionate Software Engineer focused on the convergence of <strong>Unmanned Systems</strong>, <strong>Artificial Intelligence</strong>, and <strong>Robotics</strong> to innovate and solve complex challenges.</em>
